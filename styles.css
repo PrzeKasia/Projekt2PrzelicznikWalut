@@ -1,0 +1,49 @@
+body {
+  font-family: "Raleway";
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f4f4f4;
+  background-image: url(pieniadze.jpg);
+}
+
+.container {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 20px;
+  font-weight: 800;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.input-container {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.currency {
+  border-radius: 5px;
+  border: 1px solid;
+  font-family: "Playfair Display";
+  padding: 10px;
+  font-size: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  font-family: "Playfair Display";
+  font-size: 20px;
+  font-weight: 200;
+}
