@@ -8,6 +8,8 @@ body {
   min-height: 100vh;
   background-color: #f4f4f4;
   background-image: url(pieniadze.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .container {
